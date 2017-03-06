@@ -1,0 +1,19 @@
+{
+  "name": "donate2dreams",
+  "version": "1.0.0",
+  "description": "Donate to Dreams",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derekjohnston806/donate2dreams.git"
+  },
+  "author": "Derek Johnston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/derekjohnston806/donate2dreams/issues"
+  },
+  "homepage": "https://github.com/derekjohnston806/donate2dreams#readme"
+}
